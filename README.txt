@@ -9,3 +9,4 @@ CONTACT GROVE — QUICK START | HARBORNESTDIGITAL
 7. Extracted desktop files work offline. For a phone home-screen icon, separately host the customer files on HTTPS. A public sample demo is not a private buyer account.
 
 Troubleshooting: If data appears blank, check the browser profile and URL or import your backup. If an import fails, select a Contact Grove JSON backup. If download files appear as code, extract the ZIP and open index.html. For help contact HarborNestDigital via your Etsy order.
+
